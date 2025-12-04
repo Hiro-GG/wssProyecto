@@ -1,0 +1,647 @@
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\wssProyecto.dll.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\wssProyecto.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\wssProyecto.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\csc.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\csc.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\csc.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\csi.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\csi.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\csi.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Console.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\vbc.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\vbc.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\vbc.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\obj\Debug\wssProyecto.csproj.AssemblyReference.cache
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\obj\Debug\wssProyecto.csproj.CoreCompileInputs.cache
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\obj\Debug\wssProye.521D4E28.Up2Date
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\obj\Debug\wssProyecto.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\obj\Debug\wssProyecto.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\BouncyCastle.Cryptography.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\Google.Protobuf.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\K4os.Compression.LZ4.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\K4os.Hash.xxHash.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\MySql.Data.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Buffers.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.IO.Pipelines.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Memory.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Numerics.Vectors.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\ZstdSharp.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\BouncyCastle.Cryptography.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\Google.Protobuf.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\Google.Protobuf.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\K4os.Compression.LZ4.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\K4os.Hash.xxHash.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\MySql.Data.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Buffers.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.IO.Pipelines.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Memory.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Numerics.Vectors.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\wssProyecto.dll.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\wssProyecto.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\wssProyecto.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\csc.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\csc.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\csc.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\csi.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\csi.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\csi.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Console.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\vbc.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\vbc.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\vbc.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\Google.Protobuf.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\MySql.Data.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Buffers.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.IO.Pipelines.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Memory.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\ZstdSharp.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\Google.Protobuf.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\Google.Protobuf.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\MySql.Data.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Buffers.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.IO.Pipelines.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Memory.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.AssemblyReference.cache
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\obj\Debug\wssProye.521D4E28.Up2Date
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\obj\Debug\wssProyecto.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\obj\Debug\wssProyecto.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\wssProyecto.dll.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\wssProyecto.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\wssProyecto.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\csc.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\csc.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\csc.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\csi.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\csi.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\csi.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Console.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\vbc.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\vbc.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\vbc.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\Google.Protobuf.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\MySql.Data.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Buffers.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.IO.Pipelines.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Memory.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\ZstdSharp.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\Google.Protobuf.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\Google.Protobuf.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\MySql.Data.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Buffers.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.IO.Pipelines.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Memory.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.AssemblyReference.cache
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.CoreCompileInputs.cache
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\obj\Debug\wssProye.521D4E28.Up2Date
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\obj\Debug\wssProyecto.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\obj\Debug\wssProyecto.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.dll.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Console.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\MySql.Data.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Buffers.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.IO.Pipelines.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Memory.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\ZstdSharp.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\MySql.Data.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Buffers.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.IO.Pipelines.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Memory.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.AssemblyReference.cache
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProye.521D4E28.Up2Date
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.dll.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Console.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.rsp
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\MySql.Data.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Buffers.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.IO.Pipelines.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Memory.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\ZstdSharp.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.pdb
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\MySql.Data.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Buffers.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.IO.Pipelines.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Memory.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.AssemblyReference.cache
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.CoreCompileInputs.cache
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProye.521D4E28.Up2Date
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.dll
+C:\Users\garom\OneDrive\Escritorio\practicas net\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.dll.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\wssProyecto.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csc.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\csi.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Console.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Net.Http.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\vbc.rsp
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\MySql.Data.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Buffers.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.IO.Pipelines.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Memory.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\ZstdSharp.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\BouncyCastle.Cryptography.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Google.Protobuf.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\K4os.Hash.xxHash.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\MySql.Data.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Buffers.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.IO.Pipelines.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Memory.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Numerics.Vectors.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.AssemblyReference.cache
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProye.521D4E28.Up2Date
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\obj\Debug\wssProyecto.pdb
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Sebas\OneDrive\Escritorio\PRACTICAS_POO\wssProyecto\wssProyecto\wssProyecto\wssProyecto\bin\System.Web.DataVisualization.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\wssProyecto.dll.config
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\wssProyecto.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\wssProyecto.pdb
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\csc.exe
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\csc.exe.config
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\csc.rsp
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\csi.exe
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\csi.exe.config
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\csi.rsp
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.AppContext.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Console.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.IO.Compression.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Net.Http.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Net.Sockets.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.ValueTuple.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\vbc.exe
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\vbc.exe.config
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\vbc.rsp
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\VBCSCompiler.exe
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\BouncyCastle.Cryptography.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Google.Protobuf.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\K4os.Compression.LZ4.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\K4os.Hash.xxHash.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\MySql.Data.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Buffers.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.IO.Pipelines.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Memory.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Numerics.Vectors.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Web.DataVisualization.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\ZstdSharp.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\BouncyCastle.Cryptography.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Google.Protobuf.pdb
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Google.Protobuf.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\K4os.Compression.LZ4.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\K4os.Hash.xxHash.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\MySql.Data.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Buffers.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.IO.Pipelines.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Memory.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Numerics.Vectors.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\obj\Debug\wssProyecto.csproj.AssemblyReference.cache
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\obj\Debug\wssProyecto.csproj.CoreCompileInputs.cache
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\obj\Debug\wssProye.521D4E28.Up2Date
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\obj\Debug\wssProyecto.dll
+C:\Users\garom\OneDrive\Escritorio\wssProyectoF\obj\Debug\wssProyecto.pdb
